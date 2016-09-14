@@ -22,6 +22,10 @@
     "git": "^0.1.5",
     "git-all": "^0.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "sinon": "^1.17.5"
+  },
   "description": ""
 }
