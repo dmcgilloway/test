@@ -1,0 +1,7 @@
+https://secure.meetup.com/meetup_api/console/?path=/find/groups
+
+zip = BT1 1BG
+country gb
+
+Full url
+https://api.meetup.com/find/groups?photo-host=public&zip=BT1+1BG&page=20&country=gb&sig_id=212921734&sig=ef6539cfd2935f88825afb043ff273eeee15fdc3
